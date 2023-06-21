@@ -46,3 +46,9 @@ etcd:
 https://etcd.io/docs/v3.5/dev-internal/discovery_protocol/
 
 https://etcd.io/docs/v3.5/dev-guide/grpc_naming/
+
+https://etcd.io/docs/v3.6/quickstart/
+
+https://etcd.io/docs/v3.6/op-guide/clustering/
+
+https://etcd.io/docs/v3.6/tutorials/
